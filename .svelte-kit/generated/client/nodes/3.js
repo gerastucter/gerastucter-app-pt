@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/recursos/blogue/espanhol/qual-a-diferenca-do-espanhol-da-espanha-para-com-o-resto-do-mundo/+layout.svelte";

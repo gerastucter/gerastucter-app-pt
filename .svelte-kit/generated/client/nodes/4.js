@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/recursos/ebooks/top-10-steps-to-become-a-poliglot-by-yourself-and-without-spending-money-ebook-demo/+layout.svelte";

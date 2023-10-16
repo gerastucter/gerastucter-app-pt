@@ -1,0 +1,12 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+
+Disallow: /*.js$
+Disallow: /*.json
+
+
+Sitemap: https://www.gerastucter.site/sitemap.xml.svelte
+Host: https://www.gerastucter.site
+
+
+
